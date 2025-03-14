@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2024-03-20T14:08:21.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="n3BqLDBX-e7kQ8avCCuV" version="24.0.7" type="google">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="-gXMC-IU2wIC_211BXXe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-gXMC-IU2wIC_211BXXe-0" target="-gXMC-IU2wIC_211BXXe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gXMC-IU2wIC_211BXXe-0" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-gXMC-IU2wIC_211BXXe-1" target="-uOdvzDG1MxTtP59g5mS-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gXMC-IU2wIC_211BXXe-1" value="Bob (Office Manager) wants to buy new supplies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-0" target="-uOdvzDG1MxTtP59g5mS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-0" value="Task goes to Purchasing Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-2" target="-uOdvzDG1MxTtP59g5mS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-2" value="Controls the notes from the other departments to know what needs to be orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="430" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-4" target="-uOdvzDG1MxTtP59g5mS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-4" value="once the selection of what needs to be ordered is finished" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="430" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-6" target="-uOdvzDG1MxTtP59g5mS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-6" value="asks Legal Manager if anything interferes with the order in terms of laws and regulations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-8" target="-uOdvzDG1MxTtP59g5mS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="-uOdvzDG1MxTtP59g5mS-11">
+          <mxGeometry x="0.0609" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-8" target="-uOdvzDG1MxTtP59g5mS-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="140" />
+              <mxPoint x="750" y="140" />
+              <mxPoint x="750" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-8" value="any interference?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="427.5" y="160" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-10" target="-uOdvzDG1MxTtP59g5mS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-10" value="Legal Manager checks the Laws and regulations again" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-12" target="-uOdvzDG1MxTtP59g5mS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-12" value="tells the Purchasing Manager what interferes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-14" target="-uOdvzDG1MxTtP59g5mS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-14" value="Purchasing Manager adjusts order according to the Laws &amp;amp; regulations provided" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-18" target="-uOdvzDG1MxTtP59g5mS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-18" value="proceeds to ask the Accountant if the order is within the budget" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="785" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-20" target="-uOdvzDG1MxTtP59g5mS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-27" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="-uOdvzDG1MxTtP59g5mS-23">
+          <mxGeometry x="-0.1692" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-20" target="-uOdvzDG1MxTtP59g5mS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-26" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="-uOdvzDG1MxTtP59g5mS-25">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-20" value="Order withing budget?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="805" y="280" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-22" target="-uOdvzDG1MxTtP59g5mS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-22" value="finishes the order and orders the supplies" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-uOdvzDG1MxTtP59g5mS-24" target="-uOdvzDG1MxTtP59g5mS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-24" value="adjusts the order according to the Laws &amp;amp; regulations as well as the budget" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uOdvzDG1MxTtP59g5mS-34" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2024-05-09T10:20:36.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9njrhqXtt_84HuKdk4Xj" version="24.3.1" type="google">
+  <diagram name="Page-1" id="UvFftwQ7RrltCVslt714">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-1" target="QkNuOBEh87EhFsAhZ7_z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-1" target="QkNuOBEh87EhFsAhZ7_z-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-1" target="aTQJbRZA-pMdbMmC4bX0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-1" target="aTQJbRZA-pMdbMmC4bX0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QkNuOBEh87EhFsAhZ7_z-1" value="Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="50" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QkNuOBEh87EhFsAhZ7_z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-4" target="QkNuOBEh87EhFsAhZ7_z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QkNuOBEh87EhFsAhZ7_z-4" value="Executive Chef in charge of operating the Kitchen staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-8" target="53Vg5XUb1VYoRWrDqse6-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QkNuOBEh87EhFsAhZ7_z-8" value="Executive Chef creates the menu &amp;amp; new recipes with feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-17" target="QkNuOBEh87EhFsAhZ7_z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QkNuOBEh87EhFsAhZ7_z-17" value="Food preparation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkNuOBEh87EhFsAhZ7_z-19" target="53Vg5XUb1VYoRWrDqse6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QkNuOBEh87EhFsAhZ7_z-19" value="Cleaning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53Vg5XUb1VYoRWrDqse6-17" target="53Vg5XUb1VYoRWrDqse6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-17" value="Cleaning staff keeps plates, utensils, pots and pans clean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53Vg5XUb1VYoRWrDqse6-19" target="aTQJbRZA-pMdbMmC4bX0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-19" value="cuts of meat, sauces, par-cooked, items, spices, shrimp cocktail, freshly chopped vegetables and other food items" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="565" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="53Vg5XUb1VYoRWrDqse6-22" target="53Vg5XUb1VYoRWrDqse6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-22" value="operate the dishwasher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-24" value="manage inventory of Dining Room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53Vg5XUb1VYoRWrDqse6-32" target="53Vg5XUb1VYoRWrDqse6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53Vg5XUb1VYoRWrDqse6-32" value="Food is checked and then washed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-1" target="aTQJbRZA-pMdbMmC4bX0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-1" value="Mise en place" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-4" value="Stock Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-11" target="aTQJbRZA-pMdbMmC4bX0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-11" value="Executive chef checks the food items on Monday and decides what needs replenishing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="305" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-13" target="aTQJbRZA-pMdbMmC4bX0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-13" value="orders via phone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-15" target="aTQJbRZA-pMdbMmC4bX0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-15" value="uses different supplier, one for: meat, fish, poultry, baked items &amp;amp; two for fresh foods and vegetables, two for dry goods and cooking oil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="472.5" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-17" target="aTQJbRZA-pMdbMmC4bX0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-17" value="inventory planned four to five days in advance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-19" target="aTQJbRZA-pMdbMmC4bX0-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-19" value="Food deliveries arrive throughout the day through the back door" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-23" target="aTQJbRZA-pMdbMmC4bX0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-23" value="Kitchen staff set up everything in kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTQJbRZA-pMdbMmC4bX0-25" target="aTQJbRZA-pMdbMmC4bX0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-25" value="Recipes are reviewed to check for necessary ingredients and equipment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="395" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-27" value="Spatulas and blenders are prepared for use &amp;amp; ovens preheated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="490" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-42" value="Desserts etc. are prepared by the Sous chef" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTQJbRZA-pMdbMmC4bX0-57" value="deliveries get checked for quality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="760" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
